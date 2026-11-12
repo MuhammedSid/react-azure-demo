@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      ACR_NAME: acrrectapp
+      ACR_NAME: acrreactapp
       IMAGE_NAME: viteapp
       WEBAPP_NAME: react-docker-app
 
